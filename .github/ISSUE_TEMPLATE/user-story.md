@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: This templete is for creating user story
+about: This templete is for creating User Stories
 title: ''
 labels: ''
 assignees: ''
